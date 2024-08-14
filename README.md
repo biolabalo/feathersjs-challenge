@@ -2,7 +2,7 @@
 
 ## Objective
 
-Extend our existing dispatch system by adding a rider review feature. This will allow customers to leave reviews for riders after a delivery is completed.
+Create a dispatch system by adding a rider review feature. This will allow customers to leave reviews for riders after a delivery is completed.
 
 ## Requirements
 
@@ -58,10 +58,6 @@ Extend our existing dispatch system by adding a rider review feature. This will 
 
 ## Time Limit: 
 You have 2 days to complete this challenge. Please let us know if you need any clarifications or have any questions.
-
-## Existing Project Structure
-
-[Include a brief overview of your current project structure here, highlighting key services and files that the candidate should be aware of]
 
 
 
