@@ -1,4 +1,4 @@
-# Junior Node.js Developer Challenge: Rider Review System
+# Feathers Node.js Developer Challenge: Rider Review System
 
 ## Objective
 
